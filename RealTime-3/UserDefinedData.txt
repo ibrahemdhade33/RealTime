@@ -1,0 +1,15 @@
+timeA:1,3
+timeB:2,3
+timeC:1,2
+printExpiredDateTime:12
+storageAreaEmployeeTime:12
+storageAreaMaxCapacity:500
+storageAreaMinCapacity:100
+loadedTypeATruck:50
+loadedTypeBTruck:100
+loadedTypeCTruck:150
+shippingTime:50
+typeAThreshold:30
+typeBThreshold:20
+typeCThreshold:15
+programSimulationTime:10
